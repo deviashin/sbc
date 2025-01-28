@@ -1,0 +1,7 @@
+SWRC212
+Cebal - CCxxxx Development Tools USB Driver for Windows x86 and x64
+
+Latest version
+Version: 01.00.00.0A
+Release date: 10 May 2011
+MD5 checksum: b3f7878c86d28dac11665fe3aecd4cb2

@@ -1,0 +1,7 @@
+SWRC157
+TIMAC-MSP2618-1.3.1
+
+Latest version
+Version: 01.00.00.0A
+Release date: 11 Jan 2011
+MD5 checksum: 560be22a068606bb3ae940e2b8573e1e

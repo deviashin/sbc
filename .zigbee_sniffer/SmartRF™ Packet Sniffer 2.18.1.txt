@@ -1,0 +1,7 @@
+PACKET-SNIFFER
+SmartRF™ Packet Sniffer 2.18.1
+
+Latest version
+Version: 01.00.00.0Z
+Release date: 29 Jun 2014
+MD5 checksum: a48018413b1e144ab53a61f11822173a
